@@ -1,0 +1,22 @@
+body {
+background:black;
+color:white;
+font-family:monospace;
+font-size:12pt; line-height: 3ex;
+margin: 10px auto; padding: 0;
+width: 705px;
+}
+
+a {
+color:lime;
+text-decoration:none;
+}
+
+a:visited { color:#BFB; }
+a:hover { text-decoration: underline; }
+
+div#MantisHead {
+border:2px lime solid;
+background:url("mantis_black_bg.png");
+width:700px; height:700px;	
+}
