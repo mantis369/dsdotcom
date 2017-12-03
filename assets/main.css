@@ -26,3 +26,20 @@ background:url("mantis_black_bg.png");
 margin:10px auto;
 width:700px; height:700px;
 }
+
+div.news {
+border:10px red solid;
+padding:20px;	
+}
+
+div.news h1 {
+color:yellow;	
+}
+
+div.news h2 {
+color:silver;	
+}
+
+div.news strong {
+color:red;	
+}
