@@ -21,25 +21,14 @@ width:700px; height:124px;
 }
 
 div#MantisHead {
-border:2px cyan solid;
-background:url("mantis_black_bg.png");
+border:12px cyan solid;
+border-radius:50%;
 margin:10px auto;
-width:700px; height:700px;
+width:350px; height:350px;
 }
 
-div.news {
-border:10px red solid;
-padding:20px;	
-}
-
-div.news h1 {
-color:yellow;	
-}
-
-div.news h2 {
-color:silver;	
-}
-
-div.news strong {
-color:red;	
+div#MantisHead img {
+border:1px black solid;
+border-radius:50%;
+width:100%; height:100%;	
 }
