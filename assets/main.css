@@ -47,8 +47,13 @@ border-radius:50%;
 width:100%; height:100%;
 }
 
+ul.vita > li {
+margin:15px auto;
+}
+
 footer {
-font-size:75%;
+color:yellow;
+font-size:90%;
 font-style:italic;
 line-height:2.5ex;
 }
